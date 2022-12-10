@@ -9,5 +9,6 @@ def solution(n):
 
     return ans
 
+
 n = int(input())
 print(solution(n))
